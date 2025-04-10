@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A student developer from Italy</h3>
 
-- 🌱 I’m currently learning **Java and PHP**
+- 🌱 I’m currently learning **Java and JavaScript**
 
-- 📫 For scool relatet subjects reach out to me **stdemeli@bx.fallmerayer.it**
+- 📫 For school relatet subjects reach out to me **stdemeli@bx.fallmerayer.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
